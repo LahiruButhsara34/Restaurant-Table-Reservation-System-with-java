@@ -46,11 +46,11 @@ The system uses a MySQL database named `tablemanagement` with 3 core tables:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/LahiruButhsara34/Restaurant-Table-Reservation-System-with-java.git](https://github.com/LahiruButhsara34/Restaurant-Table-Reservation-System-with-java.git)
+   git clone https://github.com/LahiruButhsara34/Restaurant-Table-Reservation-System-with-java.git
 
 
 ---
 
 ## User Manual
 
-[Download User Manual (PDF)](../Design_Explanation%20%28XYZ%20Restaurant%29.pdf)
+[Download User Manual (PDF)](Design_Explanation%20%28XYZ%20Restaurant%29.pdf)
